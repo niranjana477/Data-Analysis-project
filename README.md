@@ -1,1 +1,1 @@
-My goal with this mini project is to understand the consumer demographic and common trends in order for businesses to be able to target consumers and market their product effectively depending on regions,gender,distribution of types of products across different regions and genders
+My goal with this mini project is to understand the consumer demographic and common trends in order for businesses to be able to target consumers and market their product effectively depending on regions,gender,distribution of types of products 
